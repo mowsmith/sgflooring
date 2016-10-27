@@ -1,0 +1,10 @@
+Carpet,2.25,2.21
+Laminate,1.75,2.10
+Tile,3.50,4.12
+Wood - Mahogany,9.20,5.12
+Shag Carpet,3.45,2.21
+Concrete,6.45,7.12
+Solid Gold,12342.56,312.45
+Wood - Oak,6.12,5.12
+Wood - Pine,6.34,5.12
+Solid Diamond,45847.01,5867.89
